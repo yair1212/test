@@ -1,0 +1,10 @@
+WORKING DIR        INDEX     History
+WORKING TREE                 (HEAD)
+
+W.D. : the state of the files themselves.
+
+In. : The changes you want to save.
+
+His. : The changes saved.
+
+Hello World
